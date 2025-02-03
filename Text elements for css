@@ -1,14 +1,14 @@
 
-<p class="vedio-editing">
+<p class="video-editing">
     Talking teck and ai with google ceo sundhar pichai!
 </p>
-<p class="vedio-stats">
+<p class="video-stats">
     3.4M views &middot; 6 months
  </p>
- <p class="vedio-author">
+ <p class="video-author">
      marques browmlee &#10003;
  </p>
- <p class="vedio-description">
+ <p class="video-description">
      Talking tech and ai on the heels on google I/O,Also a daily driver phone reveals from google ceo,shoutout to sundhar!
  </p>
  <p class="apple-one">
@@ -21,7 +21,7 @@
         margin-bottom:0;
         margin-top:0;
     }
-    .vedio-editing{
+    .video-editing{
      
         font-weight:bold;
         font-size:18px;
@@ -29,7 +29,7 @@
         line-height:24px;
         margin-bottom:5px;
     }
-    .vedio-stats{
+    .video-stats{
         font-famil:arial;
         font-size:14px;
         color:rgb(96,96,96);
@@ -37,13 +37,13 @@
         margin-bottom:20px;
         
     }
-    .vedio-author{
+    .video-author{
         font-family:arial;
         font-size:14px;
         color:rgb(96,96,96);
          margin-bottom:20px;   
          }
-    .vedio-description{
+    .video-description{
         font-family:arial;
         font-size:14px;
         color:rgb(96,96,96);
